@@ -26,3 +26,14 @@ Zhehao Huang (final score:```94```)
 * [Lecture 19 HMMs and particle filtering](https://github.com/K1nght/AU332-2020-homework-and-course-material/blob/master/Lectures/lecture19_HMMs_and_particle_filtering.pdf)
 * [Lecture 21 Naive bayes](https://github.com/K1nght/AU332-2020-homework-and-course-material/blob/master/Lectures/lecture21_naive_bayes.pdf)
 * [Review Slides](https://github.com/K1nght/AU332-2020-homework-and-course-material/blob/master/Lectures/Review-Slides.pdf)
+
+## Homeworks
+* [homework 0](https://github.com/K1nght/AU332-2020-homework-and-course-material/tree/master/homework0): Python (score:```96```)
+* [homework 1](https://github.com/K1nght/AU332-2020-homework-and-course-material/tree/master/homework1): Minimax alpha-beta pruning (score:```85```)
+* [homework 2](https://github.com/K1nght/AU332-2020-homework-and-course-material/tree/master/homework2): Reinforcement Learning in Maze Environment and on Atari Game (score:```100```)
+* [homework 4](https://github.com/K1nght/AU332-2020-homework-and-course-material/tree/master/homework4): Bayesian network (score:```95```)
+
+## Exams
+* [Quiz and Solution](https://github.com/K1nght/AU332-2020-homework-and-course-material/tree/master/2020%20AU332%20quiz-sol)
+* [AI berkeley exam](https://github.com/K1nght/AU332-2020-homework-and-course-material/tree/master/ai_berkeley): Source web([UC Berkeley CS188 Past Exams](http://ai.berkeley.edu/exams.html))([CS188 Final Exam Perparation](https://inst.eecs.berkeley.edu/~cs188/sp19/final_prep.html))
+* [crib sheet](https://github.com/K1nght/AU332-2020-homework-and-course-material/blob/master/crib%20sheet.pdf)
